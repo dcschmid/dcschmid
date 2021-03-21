@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/dcschmid1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dcschmid1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel-schmid-24617413b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="daniel-schmid-24617413b" height="30" width="40" /></a>
-<a href="/https://danschmid.de/en/feed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://danschmid.de/en/feed" height="30" width="40" /></a>
+<a href="https://danschmid.de/en/feed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://danschmid.de/en/feed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
